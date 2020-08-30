@@ -1,8 +1,6 @@
 # Vue-tutorial
 A practical tutorial on Vue JS
 
-# test
-
 ## Project setup
 ```
 npm install
